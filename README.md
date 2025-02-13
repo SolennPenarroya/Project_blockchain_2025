@@ -53,7 +53,7 @@ pnpm node
 
 2. In a new terminal, deploy the contract locally:
 ```bash
-pnpm deploy:local
+pnpm deploy:localhost
 ```
 This will:
 - Deploy the contract to your local network
