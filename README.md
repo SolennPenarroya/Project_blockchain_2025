@@ -6,14 +6,14 @@ Ce projet consiste en la mise en place d'une **DAO humanitaire** permettant aux 
 
 ## Fonctionnalités principales
 
-### # DAO et Système de Vote
+### DAO et Système de Vote
 - Chaque membre de la DAO détient des tokens ERC20 représentant son pouvoir de vote.
 - Tout membre peut proposer un projet humanitaire en fournissant une description et un montant demandé.
 - Le vote est pondéré en fonction du nombre de tokens possédés par chaque utilisateur.
 - Une fois la période de vote terminée, le projet ayant obtenu le plus de votes reçoit les fonds.
 - Les décisions sont immuables et consultables sur la blockchain.
 
-### # Frontend - Application Web
+### Frontend - Application Web
 - Interface utilisateur intuitive permettant aux membres de :
   - Se connecter avec leur wallet (ex : MetaMask).
   - Consulter l'état des fonds disponibles dans la DAO.
